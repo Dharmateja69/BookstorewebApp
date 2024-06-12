@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 0,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Tales",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 10,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Novel",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 5.99,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Science Fiction",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 7.99,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Realm",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 9.99,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Horror Stories",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 6.99,
+        "category": "Free",
+        "image": "image.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Historical Fiction",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 4.99,
+        "category": "Paid",
+        "image": "image.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Romance Novel",
+        "title": "lorem,cbvxhbvjdhf.dshdhgdhg",
+        "price": 3.99,
+        "category": "Paid",
+        "image": "image.jpg"
+    }
+]
